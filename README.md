@@ -17,8 +17,10 @@ The xvfb egg provides a simple wrapper script to launch the Xvfb 'fake' X server
 Usage
 ------
 
+<pre>
 >>> import xvfb
 >>> proc = xvfb.launch_xvfb ()
+</pre>
 
 Your Xvfb is running and the DISPLAY environment variable is configured to use it.
 
