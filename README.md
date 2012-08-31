@@ -19,7 +19,7 @@ Usage
 
 >>> import xvfb
 >>> proc = xvfb.launch_xvfb ()
->>> # do some X rendering in your handy headless virtual server
+>>> \# do some X rendering in your handy headless virtual server
 
 License
 -------
