@@ -19,7 +19,8 @@ Usage
 
 >>> import xvfb
 >>> proc = xvfb.launch_xvfb ()
->>> \# do some X rendering in your handy headless virtual server
+
+Your Xvfb is running and the DISPLAY environment variable is configured to use it.
 
 License
 -------
