@@ -13,8 +13,8 @@ install_requires = ["setuptools >=0.5"]
 setup(
     name = "xvfb",
     version = "1.0.0",
-    author = "jonathanu@zillow.com",
-    author_email = "jonathanu@zillow.com",
+    author = "Graff Haley and Jonathan Ultis",
+    author_email = "graffh@zillow.com, jonathanu@zillow.com",
     description = "Start and stop Xvfb as a subprocess reliably",
     license = "(C) Zillow, Inc. 2012-",
     keywords = "zillow",
